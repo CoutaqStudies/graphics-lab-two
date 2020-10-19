@@ -1,0 +1,10 @@
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\bin\Debug\GraphicsLabTwo.exe.config
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\bin\Debug\GraphicsLabTwo.exe
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\bin\Debug\GraphicsLabTwo.pdb
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.csprojAssemblyReference.cache
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.Properties.Resources.resources
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.csproj.GenerateResource.cache
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.csproj.CoreCompileInputs.cache
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.exe
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.pdb
+C:\Users\Michael\RiderProjects\GraphicsLabTwo\GraphicsLabTwo\obj\Debug\GraphicsLabTwo.Form1.resources
